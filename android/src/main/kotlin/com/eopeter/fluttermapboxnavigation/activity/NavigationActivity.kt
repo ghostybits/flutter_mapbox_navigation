@@ -9,6 +9,7 @@ import android.os.Bundle
 
 import org.json.JSONObject
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import com.eopeter.fluttermapboxnavigation.FlutterMapboxNavigationPlugin
 import com.eopeter.fluttermapboxnavigation.R
 import com.eopeter.fluttermapboxnavigation.databinding.NavigationActivityBinding
