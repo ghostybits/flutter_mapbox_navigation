@@ -2,8 +2,8 @@ PODS:
   - Flutter (1.0.0)
   - flutter_mapbox_navigation (0.2.2):
     - Flutter
-    - MapboxCoreNavigation (~> 2.15)
-    - MapboxNavigation (~> 2.14)
+    - MapboxCoreNavigation (~> 2.18.4)
+    - MapboxNavigation (~> 2.18.4)
   - MapboxCommon (23.11.0)
   - MapboxCoreMaps (10.19.1):
     - MapboxCommon (~> 23.11)
@@ -58,7 +58,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_mapbox_navigation: cc63077d95e63f2b5df61dbc8419cba004d05597
+  flutter_mapbox_navigation: 45397eba402dfbc36f71b72c526b93339ade0fc9
   MapboxCommon: 119f3759f7dc9457f0695848108ab323eb643cb4
   MapboxCoreMaps: ca17f67baced23f8c952166ac6314c35bad3f66c
   MapboxCoreNavigation: a4fa72bdb987dc9ab55615878299bf571f83a2b1
